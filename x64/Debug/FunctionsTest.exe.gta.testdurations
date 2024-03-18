@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GtaTestDurations xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Executable>C:\Users\Asus\source\repos\FunctionsLibrary\x64\Debug\FunctionsTest.exe</Executable>
+  <TestDurations>
+    <TestDuration Test="GetProductsAmountTest.CorrectResult" Duration="1" />
+    <TestDuration Test="GetProductsAmountTest.EmptyPrices" Duration="1" />
+    <TestDuration Test="GetProductsAmountTest.ZeroAmountOfMoney" Duration="1" />
+    <TestDuration Test="GetProductsAmountTest.GetSomeProducts" Duration="1" />
+    <TestDuration Test="GetProductsAmountTest.GetAllProducts" Duration="1" />
+    <TestDuration Test="GetProductsAmountTest.SomeProductsCanBeBought" Duration="1" />
+    <TestDuration Test="GetProductsAmountTest.AllProductsCanBeBought" Duration="1" />
+    <TestDuration Test="GetProductsAmountTest.EmptyProductPrices" Duration="1" />
+    <TestDuration Test="IsLeapYearTest.ReturnTrueForZero" Duration="1" />
+    <TestDuration Test="IsLeapYearTest.ReturnFalseFor1997" Duration="1" />
+    <TestDuration Test="IsLeapYearTest.ReturnTrueFor1996" Duration="1" />
+    <TestDuration Test="IsLeapYearTest.ReturnFalseFor1900" Duration="1" />
+    <TestDuration Test="IsLeapYearTest.ReturnTrueFor2000" Duration="1" />
+  </TestDurations>
+</GtaTestDurations>
